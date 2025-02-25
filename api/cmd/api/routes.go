@@ -14,6 +14,7 @@ func (app *application) routes() http.Handler {
 	mux.Use(middleware.Recoverer)
 
 	mux.Get("/health", app.Health)
+	mux.Get("/jobs", app.AllJobs)
 
 	return mux
 }
