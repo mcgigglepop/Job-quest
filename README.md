@@ -114,8 +114,8 @@ PRs are welcome! If you find a bug or have feature suggestions, open an issue.
 
 ## 📬 Contact
 
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- Email: you@example.com
+- GitHub: [mcgigglepop](https://github.com/mcgigglepop)
+- LinkedIn: [cristopherontiveros](https://linkedin.com/in/cristopherontiveros)
+
 
 🔥 Happy coding and may you never get ghosted by recruiters again!
